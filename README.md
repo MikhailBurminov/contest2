@@ -1,2 +1,5 @@
-# contest2
-Text clustering Kaggle competition
+# Text clustering Kaggle competition
+
+Дан файл normalized_texts.csv -- в нём список текстов с идентификаторами.  
+Также дан файл pairs.csv -- в нём пары идентификаторов текстов.  
+задача -- предсказать, находятся тексты в одном кластере (в этом случае ставьте 1) или нет (ставим 0).
